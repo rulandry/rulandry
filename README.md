@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @rulandry
+- 👋 Hi, I’m Rugomoka Landry
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning a bachelor's degree
+- 🌱 I’m currently pursuing software engineering
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: rulandry10@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: watching football
 
 <!---
