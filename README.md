@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rugomoka Landry
-- 👀 I’m interested in coding
+- 👀 A SOC analyst and developer
 - 🌱 I’m currently pursuing software engineering
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: rulandry10@gmail.com
