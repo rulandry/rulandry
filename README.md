@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rugomoka Landry
-- 👀 A junior web and mobile apps developer
-- 🌱 Currently pursuing advanced cybersecurity and networking
+- 👀 A SOC analyst
+- 🌱 Currently pursuing advanced cybersecurity and ethical hacking
 - 💞️ Am looking to collaborate on various projects
 - 📫 How to reach me: rulandry10@gmail.com
 - 😄 Pronouns: he/him
