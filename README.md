@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rugomoka Landry
-- 👀 A SOC analyst
-- 🌱 Currently pursuing advanced cybersecurity and ethical hacking
+- 👀 A Technical Support Engineer L-2
+- 🌱 Currently pursuing cloud security
 - 💞️ Am looking to collaborate on various projects
 - 📫 How to reach me: rulandry10@gmail.com
 - 😄 Pronouns: he/him
