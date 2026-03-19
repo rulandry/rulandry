@@ -9,18 +9,18 @@ I am an Azure Identity Technical Support Engineer L2 with experience in supporti
 
 🌱 Currently Learning
 - Cloud Security
-- Cybersecurity fundamentals
-- Security operations fundamentals
+- Cybersecurity
+- Security operations
 
 🛠️ Skills & Technologies
 - Microsoft 365
 - Exchange Online
 - SharePoint Online
 - Microsoft Teams
-- Troubleshooting
+- Troubleshooting Hard/Software components
 - Technical Support
-- Networking Basics
-- Cloud Fundamentals
+- Networking
+- Cloud Operations
 - Security Best Practices
 - Python
 
