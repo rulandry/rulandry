@@ -3,16 +3,16 @@ Technical Support Engineer L2 | Cloud Security Enthusiast | Lifelong Learner
 
 ---
 
-👨‍💻 About Me:
+About Me:
 
 I am an Azure Identity Technical Support Engineer L2 with experience in supporting cloud services and helping users solve technical issues efficiently. I am currently growing my skills in cloud security, cybersecurity, and modern IT support solutions.
 
-🌱 Currently Learning
+Currently Learning:
 - Cloud Security
 - Cybersecurity
 - Security operations
 
-🛠️ Skills & Technologies
+Skills & Technologies:
 - Microsoft 365
 - Exchange Online
 - SharePoint Online
@@ -24,11 +24,11 @@ I am an Azure Identity Technical Support Engineer L2 with experience in supporti
 - Security Best Practices
 - Python
 
-📂 Projects
+Projects:
 - Personal Portfolio Website
 - Personal Vault Project
 
-🤝 Open to Collaborate On
+Open to Collaborate On:
 - Technical support projects
 - Cloud-related projects
 - Beginner-friendly cybersecurity projects
