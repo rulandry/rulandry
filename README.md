@@ -33,10 +33,10 @@ Open to Collaborate On:
 - Cloud-related projects
 - Beginner-friendly cybersecurity projects
 
-📫 Contact Me
+Contact Me
 - Email: [rulandry10@gmail.com](mailto:rulandry10@gmail.com)
 
-⚡ Fun Fact
+Fun Fact
 I enjoy learning new things and continuously improving my skills.
 <!---
 rulandry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
