@@ -1,5 +1,5 @@
 Hi, I'm Landry Rugomoka👋
-Technical Support Engineer L2 | Cloud Security Enthusiast | Lifelong Learner
+Technical Support Engineer L2 | Cloud & System Security Enthusiast | Lifelong Learner
 
 ---
 
